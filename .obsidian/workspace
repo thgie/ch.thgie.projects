@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "b247da1f859bcba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc1d4b8e4115c29",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1d7ee9967af6af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7aad40da17bd5b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1422c1bf8bb03094",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2fb6bc3f3a0cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8872932d4106c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "39a387662d00d760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86adfc0bbacbeffc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "index.md",
+    "It is alive! Tales from the Edge of the World.md",
+    "Klöntal Chicheria at Klöntal Biohack Retreat.md",
+    "Pong Laboratory.md",
+    "Food Fest Buskers 2018.md",
+    "Code for Artist i.md",
+    "Code for Artists ii.md",
+    "Hackteria BioLab @ SHARE – Republika, Rijeka.md",
+    "Rezension zu Posthuman von Rosi Braidotti.md",
+    "Meditations on Artificial Intelligence.md"
+  ]
+}

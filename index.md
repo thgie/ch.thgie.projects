@@ -1,16 +1,38 @@
-# Hallo
+# Projects
 
-Ich habe am [Hyperwerk](https://www.hypermagazine.ch/) in Basel postindustrielles Design studiert und mache zurzeit bis und mit 2022 einen Master in Designforschung am [MAD](https://www.hkb-ma-design.ch/en/home-118.html) in Bern, mit Fokus Technologie und Animismus. Ich arbeite als Senior Webdeveloper in Bern und war bis vor kurzem auch Junior Researcher am [Institut für Experimentelles Design und Medienkulturen](https://www.ixdm.ch/) in Basel, Schweiz
+Some of the projects I did in the last few years.
 
-Meine Interessen liegen in den Bereichen des kritischen Denkens über Software und Technologie, der Designforschung, intersektioneller Fragen und der Diskurse zum nicht- und mehr-als-menschlichen. Ich bin in diesen Forschungsfeldern  durch kuratorische und künstlerische Praktiken, Designforschung sowie durch Veranstaltungen mit Schwerpunkt auf Wissenstransfer und Partizipation aktiv.
+## Events, workshops and exhibitions
+One of the bigger projects was organising [[ckster - Festival für kontemporäres Hacking]] together with the amazing crew of [RAST](https://rast.be). We were able to boot three and a half issues of the festival.
 
----
+*Also*
 
-I studied postindustrial design at  [Hyperwerk](https://www.hypermagazine.ch/) Basel and right now I’m doing a master in design research at [MAD](https://www.hkb-ma-design.ch/en/home-118.html) until 2022, focusing on technology and animism. Currently, I’m working as senior webdeveloper in Bern and until recently also as junior researcher at the [Institute of Experimental Design and Media Cultures](https://www.ixdm.ch) in Basel, Switzerland.
+- Together with the IG Post-Gender with organised a series of Workshops on [[D I Y Sex Toys]]
 
-My interests lay in the fields of critical thought on software and technology, design research, intersectional issues and the non- and more-than-human discourses. I’m active in these fields of inquiry through curatorial and artistic practices, design research as well as events focusing on knowledge transfer and participation.
+*tech*
+- Teaching [[Code for Artist i]] and [[Code for Artists ii]]
+- Having fun in the [[Pong Laboratory]] workshop
 
-[are.na](https://www.are.na/adrian-demleitner), [github](https://github.com/thgie), [instagram](https://www.instagram.com/things_are_people_too/), [academia](https://hyperwerk.academia.edu/AdrianDemleitner)
+*other-than-human*
+- Trying to get people interested in crooked vegetables at the [[Food Fest Buskers 2018]]
+- Workshop on communal chicha making with the [[Klöntal Chicheria at Klöntal Biohack Retreat]]
 
+## Talks and lectures
+In 2018, I was invited to participate in the 8th Inter-Format Symposium in Nida Lithuania were I presented a performative lecture titled *[[Liturgy for Electronic Waste]]*.
+
+*Other talks include*
+
+- A talk about the potentiality of fermentation for the arts - [[Rotting Speculations]]
+- An input on [[Smart Curation - Algorithmic Phenomenology]]
+- Some [[Meditations on Artificial Intelligence]]
+- A small input for the launch of a new magazin with the focus on [[Cyborgs and the Humanities]]
+
+## Essays and other texts
+One of the bigger projects I did was together with my dear friend [Daniel](https://drognitz.ch), translating the [[Eat Your Sidewalk Codebook]]
+
+## Code
+I working with code as a professional webdeveloper but also in the field of creative coding.
+
+- [[8888]], an ever evolving poem
 
 #website
